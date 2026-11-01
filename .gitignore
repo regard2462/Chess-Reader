@@ -1,0 +1,6 @@
+node_modules/
+dist/
+shots/
+
+# the release key of the Android app (build/android-keystore.js), never committed
+.android-signing/
