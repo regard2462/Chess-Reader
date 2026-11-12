@@ -4,3 +4,8 @@ shots/
 
 # the release key of the Android app (build/android-keystore.js), never committed
 .android-signing/
+
+# Lokale Einstellungen von Entwicklungswerkzeugen
+.claude/settings.local.json
+.mcp.json
+.env
